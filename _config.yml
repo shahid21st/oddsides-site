@@ -35,7 +35,7 @@ github_username:  jekyll
 #theme: minima
 remote_theme: Phlow/feeling-responsive
 
-logo: "logo.png"
+logo: logo.png
 
 plugins:
   - jekyll-feed
